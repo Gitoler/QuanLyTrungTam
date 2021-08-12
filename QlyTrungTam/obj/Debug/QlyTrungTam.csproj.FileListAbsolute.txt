@@ -1,0 +1,100 @@
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\Project\QlyTrungTam\QlyTrungTam\bin\Debug\QlyTrungTam.exe.config
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\Project\QlyTrungTam\QlyTrungTam\bin\Debug\QlyTrungTam.exe
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\Project\QlyTrungTam\QlyTrungTam\bin\Debug\QlyTrungTam.pdb
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\Project\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.csproj.AssemblyReference.cache
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\Project\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.fLogin.resources
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\Project\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.Properties.Resources.resources
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\Project\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.csproj.GenerateResource.cache
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\Project\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.csproj.CoreCompileInputs.cache
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\Project\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.exe
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\Project\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.pdb
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\Project\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.fTableManager.resources
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\Project\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.fAdmin.resources
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\bin\Debug\QlyTrungTam.exe.config
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\bin\Debug\QlyTrungTam.exe
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\bin\Debug\QlyTrungTam.pdb
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.Properties.Resources.resources
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.exe
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.pdb
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIKhoaChungChi.resources
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIKhoaChuyenDe.resources
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIKhoaKiThuat.resources
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanLiHocVien.resources
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUINhanVien.resources
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanLiTrungTam.resources
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanLyChuongTrinhDaoTao.resources
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUINhanVienTmp.resources
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\bin\Debug\QlyTrungTam.exe.config
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\bin\Debug\QlyTrungTam.exe
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\bin\Debug\QlyTrungTam.pdb
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.csproj.AssemblyReference.cache
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIKhoaChungChi.resources
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIKhoaChuyenDe.resources
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIKhoaKiThuat.resources
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanLiHocVien.resources
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUILogin.resources
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanLiTrungTam.resources
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanLyChuongTrinhDaoTao.resources
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.Properties.Resources.resources
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.csproj.GenerateResource.cache
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.csproj.CoreCompileInputs.cache
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.exe
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.pdb
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanliNhanVien.resources
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\bin\Debug\QlyTrungTam.exe.config
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\bin\Debug\QlyTrungTam.exe
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\bin\Debug\QlyTrungTam.pdb
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.csprojAssemblyReference.cache
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIGiaoVien.resources
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIKhoaChungChi.resources
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIKhoaChuyenDe.resources
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIKhoaKiThuat.resources
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanLiHocVien.resources
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUINhanVien.resources
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUILogin.resources
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUINhanVienTmp.resources
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanliNhanVien.resources
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanLiTrungTam.resources
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanLyChuongTrinhDaoTao.resources
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.Properties.Resources.resources
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.csproj.GenerateResource.cache
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.csproj.CoreCompileInputs.cache
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.exe
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.pdb
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIHocVien.resources
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanLiThongTin.resources
+C:\Users\MrTrinh\Desktop\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIXemTTHocTap.resources
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIGiaoVien.resources
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIHocVien.resources
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUILogin.resources
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanliNhanVien.resources
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanLiThongTin.resources
+C:\Users\nguye\Downloads\QlyTrungTam\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIXemTTHocTap.resources
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIGiaoVien.resources
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIHocVien.resources
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanLiThongTin.resources
+C:\Users\Jumet\OneDrive\Desktop\Đồ án phân tích thiết kế\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIXemTTHocTap.resources
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\bin\Debug\QlyTrungTam.exe.config
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\bin\Debug\QlyTrungTam.exe
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\bin\Debug\QlyTrungTam.pdb
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.csprojAssemblyReference.cache
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIGiaoVien.resources
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIHocVien.resources
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIKhoaChungChi.resources
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIKhoaChuyenDe.resources
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIKhoaKiThuat.resources
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanLiHocVien.resources
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUILogin.resources
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanliNhanVien.resources
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanLiThongTin.resources
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanLiTrungTam.resources
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIQuanLyChuongTrinhDaoTao.resources
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.GUIXemTTHocTap.resources
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.Properties.Resources.resources
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.csproj.GenerateResource.cache
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.csproj.CoreCompileInputs.cache
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.exe
+C:\Users\MrTrinh\Desktop\oke\QlyTrungTam\QlyTrungTam\obj\Debug\QlyTrungTam.pdb

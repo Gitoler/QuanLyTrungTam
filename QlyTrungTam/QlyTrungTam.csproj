@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4467691D-B09A-418B-9E6F-50F89AC6B781}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QlyTrungTam</RootNamespace>
+    <AssemblyName>QlyTrungTam</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\DAO_ChiTietHoaDon.cs" />
+    <Compile Include="DAO\DAO_ChungChiHocVien.cs" />
+    <Compile Include="DAO\DAO_DataProvider.cs" />
+    <Compile Include="DAO\DAO_GiaoVien.cs" />
+    <Compile Include="DAO\DAO_GiaoVienHocPhanChungChi.cs" />
+    <Compile Include="DAO\DAO_GiaoVienHocPhanKyThuat.cs" />
+    <Compile Include="DAO\DAO_GiaoVienTotNghiep.cs" />
+    <Compile Include="DAO\DAO_HoaDon.cs" />
+    <Compile Include="DAO\DAO_HoaDonChungChi.cs" />
+    <Compile Include="DAO\DAO_HoaDonChuyenDe.cs" />
+    <Compile Include="DAO\DAO_HoaDonNhomKyThuat.cs" />
+    <Compile Include="DAO\DAO_HocPhanChungChi.cs" />
+    <Compile Include="DAO\DAO_HocPhanKyThuat.cs" />
+    <Compile Include="DAO\DAO_HocVien.cs" />
+    <Compile Include="DAO\DAO_HocVienHocPhanChungChi.cs" />
+    <Compile Include="DAO\DAO_HocVienHocPhanKyThuat.cs" />
+    <Compile Include="DAO\DAO_HocVien_HocVien.cs" />
+    <Compile Include="DAO\DAO_HocVien_ThongTinCaNhan.cs" />
+    <Compile Include="DAO\DAO_HocVien_ThongTinTaiKhoan.cs" />
+    <Compile Include="DAO\DAO_HocVien_XemTTHocTap.cs" />
+    <Compile Include="DAO\DAO_KhoaChungChi.cs" />
+    <Compile Include="DAO\DAO_KhoaChungChi_HocPhanCC.cs" />
+    <Compile Include="DAO\DAO_KhoaChungChi_KhoaHocChungChi.cs" />
+    <Compile Include="DAO\DAO_KhoaChungChi_LichThi.cs.cs" />
+    <Compile Include="DAO\DAO_KhoaChuyenDe.cs" />
+    <Compile Include="DAO\DAO_KhoaHoc.cs" />
+    <Compile Include="DAO\DAO_KhoaKyThuat.cs" />
+    <Compile Include="DAO\DAO_LichThiHocPhanKyThuat.cs" />
+    <Compile Include="DAO\DAO_LichThiTotNghiep.cs" />
+    <Compile Include="DAO\DAO_LoaiKhoaHoc.cs" />
+    <Compile Include="DAO\DAO_NhanVien.cs" />
+    <Compile Include="DAO\DAO_NhomCCHocVien.cs" />
+    <Compile Include="DAO\DAO_Tung_KhoaChuyenDe_HocPhanChuyenDe.cs" />
+    <Compile Include="DAO\DAO_Tung_KhoaChuyenDe_KhoaHocChuyenDe.cs" />
+    <Compile Include="DAO\DAO_Tung_KhoaHoc.cs" />
+    <Compile Include="DAO\DAO_UserPass.cs" />
+    <Compile Include="DAO\DAO_ChiTietKhoaKyThuat.cs" />
+    <Compile Include="DAO\DAO_Vy_ChiTietKhoaKyThuat.cs" />
+    <Compile Include="DAO\DAO_Vy_ChuyenDe.cs" />
+    <Compile Include="DAO\DAO_Vy_DiemHocPhanChungChi.cs" />
+    <Compile Include="DAO\DAO_Vy_GiaoVien.cs" />
+    <Compile Include="DAO\DAO_Vy_HocPhanChungChi.cs" />
+    <Compile Include="DAO\DAO_Vy_HocPhanChuyenDe.cs" />
+    <Compile Include="DAO\DAO_Vy_HocPhanKyThuat.cs" />
+    <Compile Include="DAO\DAO_Vy_HocVien_ThongTinCaNhan.cs" />
+    <Compile Include="DAO\DAO_Vy_KhoaDaoTaoChuyenDe.cs" />
+    <Compile Include="DAO\DAO_Vy_KhoaDaoTaoKyThuat.cs" />
+    <Compile Include="DAO\DAO_Vy_KhoaHoc.cs" />
+    <Compile Include="DAO\DAO_Vy_LichThiHPKT.cs" />
+    <Compile Include="DAO\DAO_Vy_MonHoc.cs" />
+    <Compile Include="DAO\DAO_Vy_NhanVien.cs" />
+    <Compile Include="DAO\DAO_Vy_NhomChungChi.cs" />
+    <Compile Include="DAO\DAO_Vy_NhomChuyenDe.cs" />
+    <Compile Include="DAO\DAO_Vy_NhomHPKyThuat.cs" />
+    <Compile Include="DTO\DTO_ChiTietHoaDon.cs" />
+    <Compile Include="DTO\DTO_ChiTietKhoaKyThuat.cs" />
+    <Compile Include="DTO\DTO_GiaoVien.cs" />
+    <Compile Include="DTO\DTO_GiaoVienHocPhanChungChi.cs" />
+    <Compile Include="DTO\DTO_GiaoVienHocPhanKyThuat.cs" />
+    <Compile Include="DTO\DTO_GiaoVienTotNghiep.cs" />
+    <Compile Include="DTO\DTO_HoaDon.cs" />
+    <Compile Include="DTO\DTO_HoaDonChungChi.cs" />
+    <Compile Include="DTO\DTO_HoaDonChuyenDe.cs" />
+    <Compile Include="DTO\DTO_HoaDonNhomKyThuat.cs" />
+    <Compile Include="DTO\DTO_HocPhanChungChi.cs" />
+    <Compile Include="DTO\DTO_HocPhanKyThuat.cs" />
+    <Compile Include="DTO\DTO_HocVien.cs" />
+    <Compile Include="DTO\DTO_ChungChiHocVien.cs" />
+    <Compile Include="DTO\DTO_HocVienHocPhanChungChi.cs" />
+    <Compile Include="DTO\DTO_HocVienHocPhanKyThuat.cs" />
+    <Compile Include="DTO\DTO_HocVien_ThongTinCaNhan.cs" />
+    <Compile Include="DTO\DTO_HocVien_ThongTinTaiKhoan.cs" />
+    <Compile Include="DTO\DTO_HocVien_XemTTHocTap.cs" />
+    <Compile Include="DTO\DTO_KhoaChungChi.cs" />
+    <Compile Include="DTO\DTO_KhoaChungChi_HocPhanCC.cs" />
+    <Compile Include="DTO\DTO_KhoaChungChi_KhoaHoc.cs" />
+    <Compile Include="DTO\DTO_KhoaChungChi_KhoaHocChungChi.cs" />
+    <Compile Include="DTO\DTO_KhoaChungChi_LichThi.cs" />
+    <Compile Include="DTO\DTO_KhoaChuyenDe.cs" />
+    <Compile Include="DTO\DTO_KhoaHoc.cs" />
+    <Compile Include="DTO\DTO_KhoaKyThuat.cs" />
+    <Compile Include="DTO\DTO_LichThiHocPhanKyThuat.cs" />
+    <Compile Include="DTO\DTO_LichThiTotNghiep.cs" />
+    <Compile Include="DTO\DTO_LoaiKhoaHoc.cs" />
+    <Compile Include="DTO\DTO_NhanVien.cs" />
+    <Compile Include="DTO\DTO_NhomCCHocVien.cs" />
+    <Compile Include="DTO\DTO_Tung_HocPhanChuyenDe.cs" />
+    <Compile Include="DTO\DTO_Tung_KhoaDaoTaoChuyenDe.cs" />
+    <Compile Include="DTO\DTO_Tung_KhoaHoc.cs" />
+    <Compile Include="DTO\DTO_Account.cs" />
+    <Compile Include="DTO\DTO_Vy_ChiTietKhoaKyThuat.cs" />
+    <Compile Include="DTO\DTO_Vy_ChuyenDe.cs" />
+    <Compile Include="DTO\DTO_Vy_DiemHocPhanChungChi.cs" />
+    <Compile Include="DTO\DTO_Vy_GiaoVien.cs" />
+    <Compile Include="DTO\DTO_Vy_HocPhanChungChi.cs" />
+    <Compile Include="DTO\DTO_Vy_HocPhanChuyenDe.cs" />
+    <Compile Include="DTO\DTO_Vy_HocPhanKyThuat.cs" />
+    <Compile Include="DTO\DTO_Vy_KhoaDaoTaoChuyenDe.cs" />
+    <Compile Include="DTO\DTO_Vy_KhoaDaoTaoKyThuat.cs" />
+    <Compile Include="DTO\DTO_Vy_KhoaHoc.cs" />
+    <Compile Include="DTO\DTO_Vy_LichThiHPKT.cs" />
+    <Compile Include="DTO\DTO_Vy_MonHoc.cs" />
+    <Compile Include="DTO\DTO_Vy_NhanVien.cs" />
+    <Compile Include="DTO\DTO_Vy_NhomChungChi.cs" />
+    <Compile Include="DTO\DTO_Vy_NhomChuyenDe.cs" />
+    <Compile Include="DTO\DTO_Vy_NhomHPKyThuat.cs" />
+    <Compile Include="GUIGiaoVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIGiaoVien.designer.cs">
+      <DependentUpon>GUIGiaoVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIHocVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIHocVien.designer.cs">
+      <DependentUpon>GUIHocVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIKhoaChungChi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIKhoaChungChi.designer.cs">
+      <DependentUpon>GUIKhoaChungChi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIKhoaChuyenDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIKhoaChuyenDe.designer.cs">
+      <DependentUpon>GUIKhoaChuyenDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIKhoaKiThuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIKhoaKiThuat.designer.cs">
+      <DependentUpon>GUIKhoaKiThuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIQuanLiHocVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIQuanLiHocVien.Designer.cs">
+      <DependentUpon>GUIQuanLiHocVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILogin.Designer.cs">
+      <DependentUpon>GUILogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIQuanliNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIQuanliNhanVien.designer.cs">
+      <DependentUpon>GUIQuanliNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIQuanLiThongTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIQuanLiThongTin.designer.cs">
+      <DependentUpon>GUIQuanLiThongTin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIQuanLiTrungTam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIQuanLiTrungTam.Designer.cs">
+      <DependentUpon>GUIQuanLiTrungTam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIQuanLyChuongTrinhDaoTao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIQuanLyChuongTrinhDaoTao.designer.cs">
+      <DependentUpon>GUIQuanLyChuongTrinhDaoTao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIXemTTHocTap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIXemTTHocTap.designer.cs">
+      <DependentUpon>GUIXemTTHocTap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUIGiaoVien.resx">
+      <DependentUpon>GUIGiaoVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIHocVien.resx">
+      <DependentUpon>GUIHocVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIKhoaChungChi.resx">
+      <DependentUpon>GUIKhoaChungChi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIKhoaChuyenDe.resx">
+      <DependentUpon>GUIKhoaChuyenDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIKhoaKiThuat.resx">
+      <DependentUpon>GUIKhoaKiThuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIQuanLiHocVien.resx">
+      <DependentUpon>GUIQuanLiHocVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILogin.resx">
+      <DependentUpon>GUILogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIQuanliNhanVien.resx">
+      <DependentUpon>GUIQuanliNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIQuanLiThongTin.resx">
+      <DependentUpon>GUIQuanLiThongTin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIQuanLiTrungTam.resx">
+      <DependentUpon>GUIQuanLiTrungTam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIQuanLyChuongTrinhDaoTao.resx">
+      <DependentUpon>GUIQuanLyChuongTrinhDaoTao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIXemTTHocTap.resx">
+      <DependentUpon>GUIXemTTHocTap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
